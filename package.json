@@ -1,0 +1,11 @@
+{
+  "name": "shared-utils",
+  "version": "1.0.0",
+  "description": "Shared helper library, consumed as a git submodule (Aikido demo - intentionally vulnerable)",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4.17.15",
+    "minimist": "1.2.0"
+  }
+}
